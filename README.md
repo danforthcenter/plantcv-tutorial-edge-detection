@@ -1,4 +1,4 @@
-# Image Segmentation - Part 1: Edge Detection
+# Image Segmentation - Part 2: Edge Detection
 
 [![test-pr](https://github.com/danforthcenter/plantcv-tutorial-edge-detection/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-edge-detection/actions/workflows/ci-tests.yml)
 
